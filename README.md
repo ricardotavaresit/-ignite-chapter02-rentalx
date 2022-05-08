@@ -15,8 +15,9 @@
 Tecnologies:
 
 -   NodeJS;
--   Express;
+-   TypeScript;
 -   JavaScript;
+-   Express;
 -   Jest;
 
 Dependencies:
